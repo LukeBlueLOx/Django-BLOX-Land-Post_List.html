@@ -140,6 +140,16 @@ r {
 color: red;
 }
 
+iframe.myframe1 {
+    background: #169dd5;
+    border: 1px solid red;
+}
+
+iframe.myframe2 {
+    background: #98c13d;
+    border: 1px solid red;
+}
+
 
 .icons {
      width: 20px;
@@ -298,8 +308,6 @@ color: red;
 }
 
 }
-
-
 
 .menutable td {
     padding-left: 5px;
