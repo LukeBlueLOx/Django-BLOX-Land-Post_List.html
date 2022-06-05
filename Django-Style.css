@@ -262,15 +262,10 @@ color: red;
 .imglink {
     display: block;
     width: 100%;
-    border: 1px solid #98c13d;
     text-decoration: none;
     color: #169dd5;
     font-size: 18px;
     font-weight: 500;
-}
-
-.imglink:hover {
-    border: 1px solid red;
 }
 
 .imglink:active {
